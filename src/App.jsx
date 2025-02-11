@@ -12,6 +12,7 @@ function App() {
     <div>
       <div><Header /></div>
       <div><Game /></div>
+      <Analytics />
     </div>
   )
 }
