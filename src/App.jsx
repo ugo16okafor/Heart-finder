@@ -2,6 +2,7 @@ import { useState } from 'react'
 import Game from '../compoments/game'
 import Header from '../compoments/header'
 import './index.css';
+import { Analytics } from "@vercel/analytics/react"
 
 
 function App() {
