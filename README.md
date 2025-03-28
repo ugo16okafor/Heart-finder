@@ -1,1 +1,1 @@
- created for lovers by lovers.
+ created for a lover by a lover.
